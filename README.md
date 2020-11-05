@@ -1,2 +1,2 @@
-covid-19   newyork prediction
+covid-19   newyork visualization&prediction
 sklearn-svr
